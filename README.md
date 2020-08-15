@@ -1,0 +1,6 @@
+# CMSC389W_MATH299M
+Course Material for UMD College Park CMSC389W/ MATH299M
+
+This course is designed to teach how to use the most common and useful features of Wolfram Mathematica; an extremely powerful technical computing system that can be used to model a wide range of problems. Students will also learn important techniques and styles that will equip them with a profound mastery of Mathematica. Plotting functions in several ways, making models that can be manipulated in real time by the user, and efficiently computing solutions to complicated equations are among the things we will cover. We will use these skills to model various structures in math, computer science and physics, and for the final project every student will pick something relative to their designated major (or interest otherwise) to model, whether that be in physics, math, engineering, economics, or anything else mathematical in nature. Over the course of learning these tools students will encounter mind-blowing examples of what Mathematica can do, seeing first-hand that creating models that can be manipulated in real time helps greatly in understanding the underlying symmetries and properties of a problem.
+
+I began teaching CMSC389W/MATH299M Spring 2019 and have done it every semester since.
